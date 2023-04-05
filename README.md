@@ -12,7 +12,7 @@
 ### About me
 - 🌱 I’m currently learning **JS**
 - 📫 Reach me by [Telegram](https://t.me/dgilyazov), [VK](https://vk.com/dgilyazov)
-- 🌍 I speak Russian and English as well as Uzbek
+- 🌍 I speak Russian, English and Uzbek
 
 ---
 
