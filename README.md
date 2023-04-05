@@ -1,8 +1,9 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Danya 👋</h1>
-    <h3>Frontend Developer</h3>
-    <br>
+        <br>
       <img src="https://count.getloli.com/get/@GilazovDEV?theme=gelbooru-h" />
+    <h3>Frontend Developer</h3>
+
 </div>
 
 <div id="socials" align="center">
