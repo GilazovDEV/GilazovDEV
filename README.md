@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-<h2 align="center">😺 My Stats</h2>
+<h2 align="center">My Stats 😺</h2>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=GilazovDEV&show_icons=true&theme=tokyonight&line_height=27">
