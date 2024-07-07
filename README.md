@@ -1,19 +1,19 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Danya 👋</h1>
+    <h1>Hi there, I'm Daniel 👋</h1>
       <img src="https://count.getloli.com/get/@GilazovDEV?theme=rule34" />
     <h3>Frontend Developer</h3>
 
 </div>
 
 <div id="socials" align="center">
-  <a href="https://t.me/dgilyazov">
+  <a href="https://t.me/jeaunity">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 ### About me
-- 🌱 I’m currently learning **JS**
-- 📫 Reach me by [Telegram](https://t.me/dgilyazov), [VK](https://vk.com/dgilyazov)
+- 🌱 I’m currently learning **Python**
+- 📫 Reach me by [Telegram](https://t.me/jeaunity), [VK](https://vk.com/dgilyazov)
 - 🌍 I speak Russian, English and Uzbek
 
 ---
