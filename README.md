@@ -11,14 +11,14 @@
   </a>
 </div>
 
-### About me
+### About me:
 - 🌱 I’m currently learning **Django**
 - 📫 Reach me by [Telegram](https://t.me/jeaunity), [VK](https://vk.com/devniel)
 - 🌍 I speak Russian, English and Uzbek.
 
 ---
 
-### Languages and tools
+### Languages and tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
