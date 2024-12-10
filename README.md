@@ -34,7 +34,7 @@
 
 ---
 
-### My stats
+### My stats:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=GilazovDEV&show_icons=true&theme=github_dark&line_height=27">
